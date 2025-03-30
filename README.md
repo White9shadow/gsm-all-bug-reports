@@ -1,4 +1,4 @@
-# gsm-all-Bug-reported
+# gsm-all-Bug-reports
 
 
 ## **Bug Report Template**  
