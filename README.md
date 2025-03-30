@@ -31,3 +31,8 @@
 ## Bugs
 ### Godspeed Net Booster
 - Gs net tweke DNS to wake is bad | Can't enable custom dns
+
+### Fast charging
+
+WİFİ and mobile data internet is so slow if use this module [Link](https://github.com/White9shadow/gsm-all-bug-reports/issues/2)
+
