@@ -34,5 +34,11 @@
 
 ### Fast charging
 
-WİFİ and mobile data internet is so slow if use this module [Link](https://github.com/White9shadow/gsm-all-bug-reports/issues/2)
+- WİFİ and mobile data internet is so slow if use this module [Link](https://github.com/White9shadow/gsm-all-bug-reports/issues/2) [ Fixed]
 
+- su -c gfc not working [ Fixed ]
+
+
+`Fixed Date - 2025-04-05`
+
+`Fixed Version - 9`
